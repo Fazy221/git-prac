@@ -5,6 +5,7 @@ function App() {
     <>
       <div>
         <h1>Main Branch</h1>
+        <p>Data to be pulled from main branch</p>
       </div>
     </>
   );
