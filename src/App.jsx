@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h1>Testing branch</h1>
+      <h1>Testing branch 2</h1>
     </>
   )
 }
